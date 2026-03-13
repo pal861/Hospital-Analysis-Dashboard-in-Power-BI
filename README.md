@@ -30,9 +30,13 @@ DAX – Custom measures for KPIs, ratings, commissions, etc.
 
  Overview Dashboard Image:
  Beds & stock status
+ 
 Patient admission trends
+
 Doctor/staff/patient counts
+
 Star ratings and feedback
+
 
 ![image alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Overview.jpg?raw=true)
 
