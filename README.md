@@ -6,6 +6,7 @@ Story Behind the Project
 
 
 Project Goal 🎯
+
 The goal of this project is to create an interactive hospital dashboard that brings together patient, doctor, and financial data. It helps staff make faster decisions, track resources, and improve hospital efficiency and patient care.
 
 
