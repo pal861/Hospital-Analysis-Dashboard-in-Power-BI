@@ -59,4 +59,10 @@ Charges breakdown and satisfaction
 !image[alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Patient.jpg?raw=true)
 
 
+
+Doctor Dashboard Image:
+
+![image alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Doctor.jpg?raw=true)
+
+
  
