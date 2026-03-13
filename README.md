@@ -18,3 +18,8 @@ Key Features:
 Power BI – Visualizations, DAX Measures, Report Design
 MySQL – Data extraction, views for model-ready data
 DAX – Custom measures for KPIs, ratings, commissions, etc.
+
+
+
+
+Doctor image-https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Doctor.jpg
