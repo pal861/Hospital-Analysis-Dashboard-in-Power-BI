@@ -49,7 +49,9 @@ Star ratings and feedback
 
 ![image alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Overview.jpg?raw=true)
 
-Patient 
+Patient Dashboard Iamge
+
+
 
 Doctor Dashboard Image:
 
