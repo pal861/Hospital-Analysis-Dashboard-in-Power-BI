@@ -60,8 +60,22 @@ Doctor Dashboard Image:
 ![image alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Doctor.jpg?raw=true)
 
 
+
+
 Hospital Dashboard Iamge:
 
 ![iamge alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Hospital.jpg?raw=true)
+
+
+
+
+Finance Dashboard Image:
+![iamge alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Finance.jpg)
+
+
+
+
+
+
 
  
