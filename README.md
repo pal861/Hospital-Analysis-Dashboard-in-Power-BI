@@ -73,6 +73,22 @@ Finance Dashboard Image:
 
 
 
+Acknowledgment
+This project was developed as a part of Microsoft Elevate AICTE Intership(Power BI Track) under the mentorship of Mr.Vignesh Muthuvelan Sir.Special thanks for guidance and support throughout the project.
+
+Future Enhancements
+
+Add Real-time data updates for patients,doctors,and resources.
+
+Include predictive analytics to plan hospital operation better.
+
+
+Author
+Palak Bohra
+BCA(Final Year)
+
+
+
 
 
 
