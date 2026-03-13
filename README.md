@@ -22,4 +22,5 @@ DAX – Custom measures for KPIs, ratings, commissions, etc.
 
 
 
-![image alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Doctor.jpg?raw=true)
+ Screenshots
+ Home 
