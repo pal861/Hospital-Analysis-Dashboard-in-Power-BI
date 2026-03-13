@@ -8,16 +8,25 @@ Data Source:https://www.kaggle.com/datasets/kanakbaghel/hospital-management-data
 
 Key Features:
 📊 Interactive charts and filters for easy data analysis
+
 🏥 Tracks patient admissions and discharge trends
+
 👨‍⚕️ Monitors doctor availability and staff performance
+
 🛏️ Shows bed occupancy per department
+
 💰 Visualizes financial metrics like revenue and billing
 
 
+
 📌 Tools & Technologies
+
 Power BI – Visualizations, DAX Measures, Report Design
+
 MySQL – Data extraction, views for model-ready data
+
 DAX – Custom measures for KPIs, ratings, commissions, etc.
+
 
 
 
@@ -39,6 +48,7 @@ Star ratings and feedback
 
 
 ![image alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Overview.jpg?raw=true)
+
 
 
  
