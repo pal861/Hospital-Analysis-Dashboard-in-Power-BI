@@ -18,4 +18,3 @@ Key Features:
 Power BI – Visualizations, DAX Measures, Report Design
 MySQL – Data extraction, views for model-ready data
 DAX – Custom measures for KPIs, ratings, commissions, etc.
-
