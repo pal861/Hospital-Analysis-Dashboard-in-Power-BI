@@ -49,16 +49,7 @@ Star ratings and feedback
 
 ![image alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Overview.jpg?raw=true)
 
-Patient Dashboard Image:
-
-Patient profiles with discharge info
-
-Medicine sale by quantity
-
-Charges breakdown and satisfaction
-!image[alt](https://github.com/pal861/Hospital-Analysis-Dashboard-in-Power-BI/blob/main/Patient.jpg?raw=true)
-
-
+Patient 
 
 Doctor Dashboard Image:
 
