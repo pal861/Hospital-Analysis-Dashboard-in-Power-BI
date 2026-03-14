@@ -29,17 +29,17 @@ Key Features:
 
 📌 Tools & Technologies
 
-Power BI – Visualizations, DAX Measures, Report Design
+• Power BI – Visualizations, DAX Measures, Report Design
 
-MySQL – Data extraction, views for model-ready data
+• MySQL – Data extraction, views for model-ready data
 
-DAX – Custom measures for KPIs, ratings, commissions, etc.
-
-
+• DAX – Custom measures for KPIs, ratings, commissions, etc.
 
 
 
- Screenshots
+
+
+ 🖼️ Dashboard Screenshots 
  
  Home Dashboard Image: Entry point with navigation buttons for all key report sections
 
@@ -81,12 +81,12 @@ This project was developed as a part of Microsoft Elevate AICTE Intership(Power 
 
 Future Enhancements:
 
-Add Real-time data updates for patients,doctors,and resources.
+•Add Real-time data updates for patients,doctors,and resources.
 
-Include predictive analytics to plan hospital operation better.
+•Include predictive analytics to plan hospital operation better.
 
 
-Author
+👤Author
 Palak Bohra
 BCA(Final Year)
 
